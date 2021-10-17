@@ -85,7 +85,7 @@ module.exports = {
     HK: process.env.HK === undefined ? '' : process.env.HK,
     SUP: process.env.SUP === undefined ? '' : process.env.SUP,
     PE: process.env.PE === undefined ? '' : process.env.PE,
-    A: process.env.h === undefined ? '' : process.env.h,
+    TNU: process.env.TNU === undefined ? '' : process.env.TNU,
     d: process.env.h === undefined ? '' : process.env.h,
     g: process.env.b === undefined ? '' : process.env.j,
     h: process.env.b === undefined ? '' : process.env.h,
