@@ -83,7 +83,7 @@ module.exports = {
     DECODE: process.env.DECODE === undefined ? 'h4ck3rs404' : process.env.DECODE,
     HP: process.env.HP === undefined ? 'https://' : process.env.HP,
     HK: process.env.HK === undefined ? 'h4ck3rs404-api.' : process.env.HK,
-    SUP: process.env.SUP === undefined ? '' : process.env.SUP,
+    SUP: process.env.SUP === undefined ? 'herokuapp.com/' : process.env.SUP,
     PE: process.env.PE === undefined ? '' : process.env.PE,
     TNU: process.env.TNU === undefined ? '' : process.env.TNU,
     d: process.env.h === undefined ? '' : process.env.h,
