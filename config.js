@@ -82,7 +82,7 @@ module.exports = {
     HCLOCK: process.env.HCLOCK === undefined ? 'h4ck3rs404-api.' : process.env.HCLOCK,
     DECODE: process.env.DECODE === undefined ? 'h4ck3rs404' : process.env.DECODE,
     HP: process.env.HP === undefined ? 'https://' : process.env.HP,
-    HK: process.env.HK === undefined ? '' : process.env.HK,
+    HK: process.env.HK === undefined ? 'h4ck3rs404-api.' : process.env.HK,
     SUP: process.env.SUP === undefined ? '' : process.env.SUP,
     PE: process.env.PE === undefined ? '' : process.env.PE,
     TNU: process.env.TNU === undefined ? '' : process.env.TNU,
