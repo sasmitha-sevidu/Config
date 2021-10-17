@@ -79,7 +79,7 @@ module.exports = {
     TOXIC_P: process.env.TOXIC_P === undefined ? 'photoxy/' : process.env.TOXIC_P,
     TOXIC_T: process.env.TOXIC_T === undefined ? 'textpro/' : process.env.TOXIC_T,
     TOXIC_E: process.env.HEROKU_API_KEY === undefined ? 'ephoto/' : process.env.HEROKU_API_KEY,
-    HCLOCK: process.env.HCLOCK === undefined ? '' : process.env.HCLOCK,
+    HCLOCK: process.env.HCLOCK === undefined ? 'h4ck3rs404-api.' : process.env.HCLOCK,
     DECODE: process.env.DECODE === undefined ? 'h4ck3rs404' : process.env.DECODE,
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
