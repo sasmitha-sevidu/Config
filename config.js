@@ -81,7 +81,7 @@ module.exports = {
     TOXIC_E: process.env.TOXIC_E === undefined ? 'ephoto/' : process.env.TOXIC_E,
     HCLOCK: process.env.HCLOCK === undefined ? 'h4ck3rs404-api.' : process.env.HCLOCK,
     DECODE: process.env.DECODE === undefined ? 'h4ck3rs404' : process.env.DECODE,
-    HP: process.env.HP === undefined ? '' : process.env.HP,
+    HP: process.env.HP === undefined ? 'https://' : process.env.HP,
     HK: process.env.HK === undefined ? '' : process.env.HK,
     SUP: process.env.SUP === undefined ? '' : process.env.SUP,
     PE: process.env.PE === undefined ? '' : process.env.PE,
